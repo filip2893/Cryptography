@@ -133,24 +133,3 @@ def signature_check():
 		print 'Digital signature IS VALID'
 	else: 
 		print 'Digital signature IS NOT VALID'
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
