@@ -1,5 +1,5 @@
 # Cryptography
-Project from collague *Faculty of organisation and informatics* on curse *Operationg systems 2*
+Project from collague *Faculty of organisation and informatics in Varaždin* on curse *Operationg systems 2*
 
 # Requirements:
   - crypto
