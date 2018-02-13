@@ -5,4 +5,6 @@ Project from collague *Faculty of organisation and informatics in Varaždin* on 
   - crypto
   
 # Setup example in shell:
-  - python -c 'import cryptography; print cryptography.generate_keys()'
+  ```
+  python -c 'import cryptography; print cryptography.generate_keys()'
+  ```
