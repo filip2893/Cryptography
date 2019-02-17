@@ -1,5 +1,5 @@
 # Cryptography
-Project from collague *Faculty of organisation and informatics in Varaždin* on curse *Operationg systems 2*
+Project from collague *Faculty of Organization and Informatics in Varaždin* on course *Operationg systems 2*
 
 # Requirements:
   - crypto
